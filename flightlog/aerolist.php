@@ -114,6 +114,7 @@ $aero = array (
 	'LOKF'=> array('Feldkirchen-Ossiacher See',"l.rec='LOKF' AND l.alt < 1220 AND (l.lat BETWEEN 46.70312 AND 46.71447) AND (l.lon BETWEEN 14.07115 AND 14.08252)",520,''),
 	'LIPF'=> array('FERRARA',"l.rec='LIPF' AND l.alt < 706 AND (l.lat BETWEEN 44.80934 AND 44.8148) AND (l.lon BETWEEN 11.6048 AND 11.6217)",6,''),
 	'UKFES'=> array('Feshiebridge',"l.rec='UKFES' AND l.alt < 970 AND (l.lat BETWEEN 57.09638 AND 57.10808) AND (l.lon BETWEEN -3.89767 AND -3.88505)",270,''),
+	'LFLZ'=> array('FEURS CHAMBEON',"l.rec='LFLZ' AND l.alt < 1034 AND (l.lat BETWEEN 45.71073 AND 45.70246 ) AND (l.lon BETWEEN 4.18983 AND 4.20493)",334,''),
 	'LFNO'=> array('FLORAC Sainte Enimie',"l.rec='LFNO' AND l.alt < 1631 AND (l.lat BETWEEN 44.27982 AND 44.29041 ) AND (l.lon BETWEEN 3.45091 AND 3.46953)",931,''),
 	'LFFK'=> array('FONTENAY LE COMTE',"l.rec='LFFK' AND l.alt < 724 AND (l.lat BETWEEN 46.43722 AND 46.44556) AND (l.lon BETWEEN -0.80828 AND -0.78115)",24,''),
 	'LEFM'=> array('FUENTEMILANOS',"l.rec='LEFM' AND l.alt < 1700 AND (l.lat BETWEEN 40.88192 AND 40.8949) AND (l.lon BETWEEN -4.24509 AND -4.23271)",1000,''),
